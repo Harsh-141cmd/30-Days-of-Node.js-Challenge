@@ -1,0 +1,13 @@
+**Which of the following are examples of node modules?**
+
+```javascript
+a. Express
+
+b. Body-parser
+
+c. Socket.io
+
+d. All of the above
+```
+
+**Answer - d. All of the above**
