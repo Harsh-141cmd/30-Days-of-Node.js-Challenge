@@ -1,4 +1,4 @@
-**. Problem: Express Static Files**
+**10. Problem: Express Static Files**
 
 **Problem Statement:**
 Create an Express application that serves static files (e.g., HTML, CSS, images) from a "public" directory. Ensure that accessing the root ("/") returns the "index.html" file from the "public" directory.
